@@ -8,7 +8,7 @@
 --vibrant-coral-2: #f25c54ff;
 }
 
-html {
+body {
 background-color: var(--light caramel);
 }
 h1 {
