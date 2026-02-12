@@ -1,3 +1,16 @@
 /* styles.css */
+:root {
+  /* CSS HEX */
+--light-caramel: #f7b267ff;
+--tangerine-dream: #f79d65ff;
+--coral-glow: #f4845fff;
+--vibrant-coral: #f27059ff;
+--vibrant-coral-2: #f25c54ff;
+}
 
-
+html {
+background-color: var(--light caramel);
+}
+h1 {
+  color: var(--vibrant-coral-2);
+}
